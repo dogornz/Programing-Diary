@@ -1,6 +1,10 @@
 February, 20th 2026
 
 Hôm nay là ngày dau tiên tôi học về cách hacker tấn công một trang web, rất dơn giản và dễ hiểu, mong hôm sau cũng dược như này, cố lên tôi ơi !!!
+Today is the first day I have learned about how hackers attack a website. It was very simple and easy to understand. I hope the next lessons will be like this as well. Keep going, I can do this!
 
 Thành quả tôi đã đạt được: 
+https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=facebook&fbclid=IwY2xjawQFSTlleHRuA2FlbQIxMQBicmlkETJudFR1VEY5UTNpUThJaFNKc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoM_rTtyQIIQ8Y3uJPQGc9zYy8mgiCzIzL9dduRjViC3M3HBIjOdMSkohXWk_aem_qv3utt0-QiyLhjJU3_PfjQ
+
+The achievement I got: 
 https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=facebook&fbclid=IwY2xjawQFSTlleHRuA2FlbQIxMQBicmlkETJudFR1VEY5UTNpUThJaFNKc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoM_rTtyQIIQ8Y3uJPQGc9zYy8mgiCzIzL9dduRjViC3M3HBIjOdMSkohXWk_aem_qv3utt0-QiyLhjJU3_PfjQ
